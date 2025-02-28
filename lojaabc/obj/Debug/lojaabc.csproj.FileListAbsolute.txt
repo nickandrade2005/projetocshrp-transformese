@@ -1,0 +1,11 @@
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\bin\Debug\lojaabc.exe.config
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\bin\Debug\lojaabc.exe
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\bin\Debug\lojaabc.pdb
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.csproj.AssemblyReference.cache
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.Properties.Resources.resources
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.csproj.GenerateResource.cache
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.exe
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.pdb
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.FrmMenuprincipal.resources
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.fmrsplash.resources
