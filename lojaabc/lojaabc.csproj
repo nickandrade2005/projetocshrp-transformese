@@ -52,6 +52,12 @@
     <Compile Include="Fmrlogin.Designer.cs">
       <DependentUpon>Fmrlogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmfuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmfuncionarios.Designer.cs">
+      <DependentUpon>frmfuncionarios.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmsplash.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +84,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Fmrlogin.resx">
+      <DependentUpon>Fmrlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmfuncionarios.resx">
+      <DependentUpon>frmfuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmMenuprincipal.resx">
       <DependentUpon>FrmMenuprincipal.cs</DependentUpon>
     </EmbeddedResource>

@@ -8,4 +8,6 @@ C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj
 C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.exe
 C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.pdb
 C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.FrmMenuprincipal.resources
-C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.fmrsplash.resources
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.Fmrlogin.resources
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.pcdLogo.resources
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.frmfuncionarios.resources

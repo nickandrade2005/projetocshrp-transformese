@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace lojaabc
 {
-    public partial class pcdLogo : Form
+    public partial class frmfuncionarios : Form
     {
-        public pcdLogo()
+        public frmfuncionarios()
         {
             InitializeComponent();
         }
@@ -22,7 +22,17 @@ namespace lojaabc
 
         }
 
-        private void fmrsplash_Load(object sender, EventArgs e)
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void maskedTextBox2_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
 
         }
