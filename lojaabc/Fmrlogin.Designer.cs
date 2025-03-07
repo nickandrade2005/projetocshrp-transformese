@@ -48,6 +48,7 @@ namespace lojaabc
             this.pctlogo.Size = new System.Drawing.Size(507, 522);
             this.pctlogo.TabIndex = 0;
             this.pctlogo.TabStop = false;
+            this.pctlogo.Click += new System.EventHandler(this.pctlogo_Click);
             // 
             // lblUsuario
             // 
@@ -94,6 +95,7 @@ namespace lojaabc
             this.btnEntrar.TabIndex = 2;
             this.btnEntrar.Text = "&ENTRAR";
             this.btnEntrar.UseVisualStyleBackColor = true;
+            this.btnEntrar.Click += new System.EventHandler(this.btnEntrar_Click);
             // 
             // btnSair
             // 

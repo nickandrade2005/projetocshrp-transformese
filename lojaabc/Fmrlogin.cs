@@ -31,5 +31,18 @@ namespace lojaabc
         {
             Application.Exit();
         }
+
+        private void btnEntrar_Click(object sender, EventArgs e)
+        {
+            FrmMenuprincipal abrir = new frmfuncionarios();
+            abrir.Show();
+            this . hi
+
+        }
+
+        private void pctlogo_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
