@@ -33,7 +33,7 @@ namespace lojaabc
             this.pctlogo = new System.Windows.Forms.PictureBox();
             this.lblUsuario = new System.Windows.Forms.Label();
             this.textUsuario = new System.Windows.Forms.TextBox();
-            this.txtUsuario = new System.Windows.Forms.TextBox();
+            this.txtsenha = new System.Windows.Forms.TextBox();
             this.lblSenha = new System.Windows.Forms.Label();
             this.btnEntrar = new System.Windows.Forms.Button();
             this.btnSair = new System.Windows.Forms.Button();
@@ -66,16 +66,20 @@ namespace lojaabc
             this.textUsuario.Name = "textUsuario";
             this.textUsuario.Size = new System.Drawing.Size(176, 20);
             this.textUsuario.TabIndex = 0;
+            this.textUsuario.TextChanged += new System.EventHandler(this.textUsuario_TextChanged);
+            this.textUsuario.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textUsuario_KeyDown);
             // 
-            // txtUsuario
+            // txtsenha
             // 
-            this.txtUsuario.Font = new System.Drawing.Font("Forte", 8.25F);
-            this.txtUsuario.Location = new System.Drawing.Point(536, 313);
-            this.txtUsuario.MaxLength = 15;
-            this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.PasswordChar = 'l';
-            this.txtUsuario.Size = new System.Drawing.Size(176, 22);
-            this.txtUsuario.TabIndex = 1;
+            this.txtsenha.Font = new System.Drawing.Font("Forte", 8.25F);
+            this.txtsenha.Location = new System.Drawing.Point(536, 313);
+            this.txtsenha.MaxLength = 15;
+            this.txtsenha.Name = "txtsenha";
+            this.txtsenha.PasswordChar = 'l';
+            this.txtsenha.Size = new System.Drawing.Size(176, 22);
+            this.txtsenha.TabIndex = 1;
+            this.txtsenha.TextChanged += new System.EventHandler(this.txtUsuario_TextChanged);
+            this.txtsenha.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtsenha_KeyDown);
             // 
             // lblSenha
             // 
@@ -114,7 +118,7 @@ namespace lojaabc
             this.ClientSize = new System.Drawing.Size(784, 561);
             this.Controls.Add(this.btnSair);
             this.Controls.Add(this.btnEntrar);
-            this.Controls.Add(this.txtUsuario);
+            this.Controls.Add(this.txtsenha);
             this.Controls.Add(this.lblSenha);
             this.Controls.Add(this.textUsuario);
             this.Controls.Add(this.lblUsuario);
@@ -137,7 +141,7 @@ namespace lojaabc
         private System.Windows.Forms.PictureBox pctlogo;
         private System.Windows.Forms.Label lblUsuario;
         private System.Windows.Forms.TextBox textUsuario;
-        private System.Windows.Forms.TextBox txtUsuario;
+        private System.Windows.Forms.TextBox txtsenha;
         private System.Windows.Forms.Label lblSenha;
         private System.Windows.Forms.Button btnEntrar;
         private System.Windows.Forms.Button btnSair;

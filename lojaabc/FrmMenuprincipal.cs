@@ -7,9 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Runtime.InteropServices;
 
 namespace lojaabc
 {
+    //Criando variáveis para controle do menu
     public partial class FrmMenuprincipal : Form
     {
         public FrmMenuprincipal()
@@ -17,7 +19,26 @@ namespace lojaabc
             InitializeComponent();
         }
 
-        private void button9_Click(object sender, EventArgs e)
+        private void btnVoltar(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnvoltar_Click(object sender, EventArgs e)
+        {
+            Fmrlogin abrir = new Fmrlogin();
+            abrir.Show();
+            this.Hide();
+        }
+
+        private void btnFuncionarios_Click(object sender, EventArgs e)
+        {
+            frmfuncionarios abrir = new frmfuncionarios();
+            abrir.Show();
+            this.Hide();
+        }
+
+        private void FrmMenuprincipal_Load(object sender, EventArgs e)
         {
 
         }

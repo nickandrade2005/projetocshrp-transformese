@@ -1,7 +1,7 @@
 ﻿
 namespace lojaabc
 {
-    partial class pcdLogo
+    partial class tmr
     {
         /// <summary>
         /// Required designer variable.
@@ -29,11 +29,13 @@ namespace lojaabc
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(pcdLogo));
+            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(tmr));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.lblporcentagem = new System.Windows.Forms.Label();
             this.lblNumero = new System.Windows.Forms.Label();
-            this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.pgbSplash = new System.Windows.Forms.ProgressBar();
+            this.TmrSplash = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -67,26 +69,32 @@ namespace lojaabc
             this.lblNumero.TabIndex = 2;
             this.lblNumero.Text = "0";
             // 
-            // progressBar1
+            // pgbSplash
             // 
-            this.progressBar1.Location = new System.Drawing.Point(177, 414);
-            this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(306, 32);
-            this.progressBar1.TabIndex = 3;
+            this.pgbSplash.Location = new System.Drawing.Point(177, 414);
+            this.pgbSplash.Name = "pgbSplash";
+            this.pgbSplash.Size = new System.Drawing.Size(306, 32);
+            this.pgbSplash.TabIndex = 3;
+            this.pgbSplash.Click += new System.EventHandler(this.pgbSplash_Click);
             // 
-            // pcdLogo
+            // TmrSplash
+            // 
+            this.TmrSplash.Interval = 1000;
+            this.TmrSplash.Tick += new System.EventHandler(this.tmrSplash_Tick);
+            // 
+            // tmr
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(784, 561);
-            this.Controls.Add(this.progressBar1);
+            this.Controls.Add(this.pgbSplash);
             this.Controls.Add(this.lblNumero);
             this.Controls.Add(this.lblporcentagem);
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.Name = "pcdLogo";
+            this.Name = "tmr";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "transforme-se splash";
             this.Load += new System.EventHandler(this.fmrsplash_Load);
@@ -101,6 +109,7 @@ namespace lojaabc
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label lblporcentagem;
         private System.Windows.Forms.Label lblNumero;
-        private System.Windows.Forms.ProgressBar progressBar1;
+        private System.Windows.Forms.ProgressBar pgbSplash;
+        private System.Windows.Forms.Timer TmrSplash;
     }
 }

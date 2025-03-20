@@ -9,6 +9,7 @@ C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj
 C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.pdb
 C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.FrmMenuprincipal.resources
 C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.Fmrlogin.resources
-C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.pcdLogo.resources
 C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.frmfuncionarios.resources
 C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.ltbpesquisar.resources
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.frmsobreNos.resources
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\lojaabc\obj\Debug\lojaabc.tmr.resources

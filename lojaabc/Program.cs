@@ -16,7 +16,7 @@ namespace lojaabc
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new pcdLogo());
+            Application.Run(new frmfuncionarios());
 
         }
     }
