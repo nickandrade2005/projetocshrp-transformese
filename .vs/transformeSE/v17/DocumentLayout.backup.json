@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|c:\\users\\nicolas.rhandrade\\documents\\visual studio 2019\\transformese\\lojaabc\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|solutionrelative:lojaabc\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A366CEF0-CA00-45A0-967D-55EE3884142B}|calculadora\\calculadora.csproj|c:\\users\\nicolas.rhandrade\\documents\\visual studio 2019\\transformese\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A366CEF0-CA00-45A0-967D-55EE3884142B}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|c:\\users\\nicolas.rhandrade\\documents\\visual studio 2019\\transformese\\lojaabc\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|solutionrelative:lojaabc\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|solutionrelative:lojaabc\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|solutionrelative:lojaabc\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|c:\\users\\nicolas.rhandrade\\documents\\visual studio 2019\\transformese\\lojaabc\\frmsobrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|solutionrelative:lojaabc\\frmsobrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|c:\\users\\nicolas.rhandrade\\documents\\visual studio 2019\\transformese\\lojaabc\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|solutionrelative:lojaabc\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|c:\\users\\nicolas.rhandrade\\documents\\visual studio 2019\\transformese\\lojaabc\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|solutionrelative:lojaabc\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|solutionrelative:lojaabc\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|c:\\users\\nicolas.rhandrade\\documents\\visual studio 2019\\transformese\\lojaabc\\frmsobrenos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|solutionrelative:lojaabc\\frmsobrenos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|c:\\users\\nicolas.rhandrade\\documents\\visual studio 2019\\transformese\\lojaabc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BCE50C84-C89F-4EB7-BF88-39478979E573}|lojaabc\\lojaabc.csproj|solutionrelative:lojaabc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EF3542AD-7B48-4AAD-9824-79EF2DCB7ADC}|Componentes\\Componentes.csproj|C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\componentes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF3542AD-7B48-4AAD-9824-79EF2DCB7ADC}|Componentes\\Componentes.csproj|solutionrelative:componentes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,128 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmSplash.cs",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmSplash.cs",
-              "RelativeDocumentMoniker": "lojaabc\\frmSplash.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmSplash.cs",
-              "RelativeToolTip": "lojaabc\\frmSplash.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAD4vyMAAABDAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\calculadora\\Form1.cs [Design]",
+              "RelativeToolTip": "calculadora\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:25:01.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T19:44:58.719Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmSplash.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmSplash.cs",
-              "RelativeDocumentMoniker": "lojaabc\\frmSplash.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmSplash.cs [Design]",
-              "RelativeToolTip": "lojaabc\\frmSplash.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:10:20.397Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\Form1.cs",
-              "RelativeDocumentMoniker": "lojaabc\\Form1.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\Form1.cs [Design]",
-              "RelativeToolTip": "lojaabc\\Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\Componentes\\Form1.cs",
+              "RelativeDocumentMoniker": "Componentes\\Form1.cs",
+              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\Componentes\\Form1.cs [Design]",
+              "RelativeToolTip": "Componentes\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:00:11.07Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmsobreNos.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmsobreNos.Designer.cs",
-              "RelativeDocumentMoniker": "lojaabc\\frmsobreNos.Designer.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmsobreNos.Designer.cs",
-              "RelativeToolTip": "lojaabc\\frmsobreNos.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:59:58.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmsobreNos.cs",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmsobreNos.cs",
-              "RelativeDocumentMoniker": "lojaabc\\frmsobreNos.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmsobreNos.cs",
-              "RelativeToolTip": "lojaabc\\frmsobreNos.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:58:44.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmfuncionarios.cs",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmfuncionarios.cs",
-              "RelativeDocumentMoniker": "lojaabc\\frmfuncionarios.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmfuncionarios.cs",
-              "RelativeToolTip": "lojaabc\\frmfuncionarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:50:00.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmfuncionarios.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmfuncionarios.cs",
-              "RelativeDocumentMoniker": "lojaabc\\frmfuncionarios.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\frmfuncionarios.cs [Design]",
-              "RelativeToolTip": "lojaabc\\frmfuncionarios.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:49:35.555Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmMenuprincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\FrmMenuprincipal.cs",
-              "RelativeDocumentMoniker": "lojaabc\\FrmMenuprincipal.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\FrmMenuprincipal.cs [Design]",
-              "RelativeToolTip": "lojaabc\\FrmMenuprincipal.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T19:41:48.289Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmMenuprincipal.cs",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\FrmMenuprincipal.cs",
-              "RelativeDocumentMoniker": "lojaabc\\FrmMenuprincipal.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\FrmMenuprincipal.cs",
-              "RelativeToolTip": "lojaabc\\FrmMenuprincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T19:41:50.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Fmrlogin.cs",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\Fmrlogin.cs",
-              "RelativeDocumentMoniker": "lojaabc\\Fmrlogin.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\lojaabc\\Fmrlogin.cs",
-              "RelativeToolTip": "lojaabc\\Fmrlogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:54:01.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T19:17:12.528Z"
             }
           ]
         }

@@ -56,7 +56,7 @@ namespace lojaabc
             this.menuStrip2 = new System.Windows.Forms.MenuStrip();
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnvoltar = new System.Windows.Forms.Button();
-            this.btnpesquisar = new System.Windows.Forms.Button();
+            this.frmpesquisarfuncionarios = new System.Windows.Forms.Button();
             this.btnlimpar = new System.Windows.Forms.Button();
             this.btnexcluir = new System.Windows.Forms.Button();
             this.btnaltera = new System.Windows.Forms.Button();
@@ -338,7 +338,7 @@ namespace lojaabc
             // panel1
             // 
             this.panel1.Controls.Add(this.btnvoltar);
-            this.panel1.Controls.Add(this.btnpesquisar);
+            this.panel1.Controls.Add(this.frmpesquisarfuncionarios);
             this.panel1.Controls.Add(this.btnlimpar);
             this.panel1.Controls.Add(this.btnexcluir);
             this.panel1.Controls.Add(this.btnaltera);
@@ -359,16 +359,17 @@ namespace lojaabc
             this.btnvoltar.Text = "Voltar";
             this.btnvoltar.UseVisualStyleBackColor = true;
             // 
-            // btnpesquisar
+            // frmpesquisarfuncionarios
             // 
-            this.btnpesquisar.Image = ((System.Drawing.Image)(resources.GetObject("btnpesquisar.Image")));
-            this.btnpesquisar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnpesquisar.Location = new System.Drawing.Point(527, 3);
-            this.btnpesquisar.Name = "btnpesquisar";
-            this.btnpesquisar.Size = new System.Drawing.Size(97, 37);
-            this.btnpesquisar.TabIndex = 6;
-            this.btnpesquisar.Text = "Pesquisar";
-            this.btnpesquisar.UseVisualStyleBackColor = true;
+            this.frmpesquisarfuncionarios.Image = ((System.Drawing.Image)(resources.GetObject("frmpesquisarfuncionarios.Image")));
+            this.frmpesquisarfuncionarios.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.frmpesquisarfuncionarios.Location = new System.Drawing.Point(527, 3);
+            this.frmpesquisarfuncionarios.Name = "frmpesquisarfuncionarios";
+            this.frmpesquisarfuncionarios.Size = new System.Drawing.Size(97, 37);
+            this.frmpesquisarfuncionarios.TabIndex = 6;
+            this.frmpesquisarfuncionarios.Text = "Pesquisar";
+            this.frmpesquisarfuncionarios.UseVisualStyleBackColor = true;
+            this.frmpesquisarfuncionarios.Click += new System.EventHandler(this.btnpesquisar_Click);
             // 
             // btnlimpar
             // 
@@ -691,7 +692,7 @@ namespace lojaabc
         private System.Windows.Forms.MenuStrip menuStrip3;
         private System.Windows.Forms.MenuStrip menuStrip4;
         private System.Windows.Forms.Button btnvoltar;
-        private System.Windows.Forms.Button btnpesquisar;
+        private System.Windows.Forms.Button frmpesquisarfuncionarios;
         private System.Windows.Forms.Button btnlimpar;
         private System.Windows.Forms.Button btnexcluir;
         private System.Windows.Forms.Button btnaltera;

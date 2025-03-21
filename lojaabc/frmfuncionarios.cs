@@ -106,7 +106,7 @@ namespace lojaabc
             mskCEP.Clear();
             txtcidade.Clear();
             txtestado.Clear();
-            cbbuf.Items.Clear();
+            cbbuf.Text = "";
             txtcomplemento.Clear();
 
             txtnome.Focus();
@@ -114,17 +114,24 @@ namespace lojaabc
         private void btnnovo_Click(object sender, EventArgs e)
         {
             //executando habilitar campos
-          
+
         }
 
         private void btncadastrar_Click(object sender, EventArgs e)
         {
-            if (txtnome.Text.Equals("") || txtemail.Text.Equals("")|| 
-               
+            
 
 
 
-           }
 
+
+         }
+
+        private void btnpesquisar_Click(object sender, EventArgs e)
+        {
+            frmfuncionarios abrir = new frmfuncionarios();
+            abrir.ShowDialog();
+
+    }
     }
 }
