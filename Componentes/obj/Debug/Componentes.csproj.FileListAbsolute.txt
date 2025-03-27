@@ -1,0 +1,10 @@
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\Componentes\bin\Debug\Componentes.exe.config
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\Componentes\bin\Debug\Componentes.exe
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\Componentes\bin\Debug\Componentes.pdb
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\Componentes\obj\Debug\Componentes.csproj.AssemblyReference.cache
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\Componentes\obj\Debug\Componentes.Form1.resources
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\Componentes\obj\Debug\Componentes.Properties.Resources.resources
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\Componentes\obj\Debug\Componentes.csproj.GenerateResource.cache
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\Componentes\obj\Debug\Componentes.exe
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\Componentes\obj\Debug\Componentes.pdb
