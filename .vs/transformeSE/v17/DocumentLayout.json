@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A366CEF0-CA00-45A0-967D-55EE3884142B}|calculadora\\calculadora.csproj|c:\\users\\nicolas.rhandrade\\documents\\visual studio 2019\\transformese\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A366CEF0-CA00-45A0-967D-55EE3884142B}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A366CEF0-CA00-45A0-967D-55EE3884142B}|calculadora\\calculadora.csproj|c:\\users\\nicolas.rhandrade\\documents\\visual studio 2019\\transformese\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A366CEF0-CA00-45A0-967D-55EE3884142B}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF3542AD-7B48-4AAD-9824-79EF2DCB7ADC}|Componentes\\Componentes.csproj|C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\componentes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EF3542AD-7B48-4AAD-9824-79EF2DCB7ADC}|Componentes\\Componentes.csproj|solutionrelative:componentes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9E47D44C-B7A5-4B51-9DAA-586A13BCAA31}|fmrFolha_de_pagamento\\fmrFolha_de_pagamento.csproj|c:\\users\\nicolas.rhandrade\\documents\\visual studio 2019\\transformese\\fmrfolha_de_pagamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E47D44C-B7A5-4B51-9DAA-586A13BCAA31}|fmrFolha_de_pagamento\\fmrFolha_de_pagamento.csproj|solutionrelative:fmrfolha_de_pagamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,38 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\calculadora\\Form1.cs",
-              "RelativeDocumentMoniker": "calculadora\\Form1.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\calculadora\\Form1.cs",
-              "RelativeToolTip": "calculadora\\Form1.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAADwv2gAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:34:28.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\calculadora\\Form1.cs",
-              "RelativeDocumentMoniker": "calculadora\\Form1.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\calculadora\\Form1.cs [Design]",
-              "RelativeToolTip": "calculadora\\Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\fmrFolha_de_pagamento\\Form1.cs",
+              "RelativeDocumentMoniker": "fmrFolha_de_pagamento\\Form1.cs",
+              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\fmrFolha_de_pagamento\\Form1.cs [Design]",
+              "RelativeToolTip": "fmrFolha_de_pagamento\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T19:44:58.719Z",
+              "WhenOpened": "2025-03-27T20:00:52.101Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\Componentes\\Form1.cs",
-              "RelativeDocumentMoniker": "Componentes\\Form1.cs",
-              "ToolTip": "C:\\Users\\nicolas.rhandrade\\Documents\\Visual Studio 2019\\transformeSE\\Componentes\\Form1.cs [Design]",
-              "RelativeToolTip": "Componentes\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T19:17:12.528Z"
             }
           ]
         }
