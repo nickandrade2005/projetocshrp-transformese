@@ -1,0 +1,10 @@
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\fmrFolha_de_pagamento\bin\Debug\fmrFolha_de_pagamento.exe.config
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\fmrFolha_de_pagamento\bin\Debug\fmrFolha_de_pagamento.exe
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\fmrFolha_de_pagamento\bin\Debug\fmrFolha_de_pagamento.pdb
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\fmrFolha_de_pagamento\obj\Debug\fmrFolha_de_pagamento.csproj.AssemblyReference.cache
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\fmrFolha_de_pagamento\obj\Debug\fmrFolha_de_pagamento.Form1.resources
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\fmrFolha_de_pagamento\obj\Debug\fmrFolha_de_pagamento.Properties.Resources.resources
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\fmrFolha_de_pagamento\obj\Debug\fmrFolha_de_pagamento.csproj.GenerateResource.cache
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\fmrFolha_de_pagamento\obj\Debug\fmrFolha_de_pagamento.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\fmrFolha_de_pagamento\obj\Debug\fmrFolha_de_pagamento.exe
+C:\Users\nicolas.rhandrade\Documents\Visual Studio 2019\transformeSE\fmrFolha_de_pagamento\obj\Debug\fmrFolha_de_pagamento.pdb

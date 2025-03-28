@@ -28,74 +28,82 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.ckbclubedelazer = new System.Windows.Forms.CheckBox();
+            this.btncalcular = new System.Windows.Forms.Button();
+            this.cbxclubedelazer = new System.Windows.Forms.ComboBox();
+            this.txtSalario = new System.Windows.Forms.TextBox();
+            this.txtsalariodafolha = new System.Windows.Forms.TextBox();
+            this.txtimpostoderenda = new System.Windows.Forms.TextBox();
+            this.txtSalarioliquido = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.lblSalario = new System.Windows.Forms.Label();
+            this.lblDatadaFolha = new System.Windows.Forms.Label();
+            this.btnLimpar = new System.Windows.Forms.Button();
+            this.btnSair = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // checkBox1
+            // ckbclubedelazer
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox1.Location = new System.Drawing.Point(38, 133);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(92, 20);
-            this.checkBox1.TabIndex = 0;
-            this.checkBox1.Text = "checkBox1";
-            this.checkBox1.UseVisualStyleBackColor = true;
+            this.ckbclubedelazer.AutoSize = true;
+            this.ckbclubedelazer.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ckbclubedelazer.Location = new System.Drawing.Point(18, 173);
+            this.ckbclubedelazer.Name = "ckbclubedelazer";
+            this.ckbclubedelazer.Size = new System.Drawing.Size(119, 22);
+            this.ckbclubedelazer.TabIndex = 0;
+            this.ckbclubedelazer.Text = "plano de lazer";
+            this.ckbclubedelazer.UseVisualStyleBackColor = true;
+            this.ckbclubedelazer.CheckedChanged += new System.EventHandler(this.ckbclubedelazer_CheckedChanged);
             // 
-            // button1
+            // btncalcular
             // 
-            this.button1.Location = new System.Drawing.Point(561, 41);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btncalcular.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btncalcular.Location = new System.Drawing.Point(503, 290);
+            this.btncalcular.Name = "btncalcular";
+            this.btncalcular.Size = new System.Drawing.Size(160, 34);
+            this.btncalcular.TabIndex = 1;
+            this.btncalcular.Text = "calcular";
+            this.btncalcular.UseVisualStyleBackColor = true;
+            this.btncalcular.Click += new System.EventHandler(this.btncalcular_Click);
             // 
-            // comboBox1
+            // cbxclubedelazer
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(29, 187);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
-            this.comboBox1.TabIndex = 2;
+            this.cbxclubedelazer.FormattingEnabled = true;
+            this.cbxclubedelazer.Location = new System.Drawing.Point(16, 230);
+            this.cbxclubedelazer.Name = "cbxclubedelazer";
+            this.cbxclubedelazer.Size = new System.Drawing.Size(121, 21);
+            this.cbxclubedelazer.TabIndex = 2;
             // 
-            // textBox1
+            // txtSalario
             // 
-            this.textBox1.Location = new System.Drawing.Point(38, 88);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(139, 20);
-            this.textBox1.TabIndex = 3;
+            this.txtSalario.Location = new System.Drawing.Point(16, 127);
+            this.txtSalario.Name = "txtSalario";
+            this.txtSalario.Size = new System.Drawing.Size(139, 20);
+            this.txtSalario.TabIndex = 3;
             // 
-            // textBox2
+            // txtsalariodafolha
             // 
-            this.textBox2.Location = new System.Drawing.Point(561, 110);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(139, 20);
-            this.textBox2.TabIndex = 4;
+            this.txtsalariodafolha.Location = new System.Drawing.Point(561, 110);
+            this.txtsalariodafolha.Name = "txtsalariodafolha";
+            this.txtsalariodafolha.Size = new System.Drawing.Size(139, 20);
+            this.txtsalariodafolha.TabIndex = 4;
             // 
-            // textBox3
+            // txtimpostoderenda
             // 
-            this.textBox3.Location = new System.Drawing.Point(561, 175);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(139, 20);
-            this.textBox3.TabIndex = 5;
+            this.txtimpostoderenda.Location = new System.Drawing.Point(561, 175);
+            this.txtimpostoderenda.Name = "txtimpostoderenda";
+            this.txtimpostoderenda.Size = new System.Drawing.Size(139, 20);
+            this.txtimpostoderenda.TabIndex = 5;
             // 
-            // textBox4
+            // txtSalarioliquido
             // 
-            this.textBox4.Location = new System.Drawing.Point(561, 250);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(139, 20);
-            this.textBox4.TabIndex = 6;
+            this.txtSalarioliquido.Location = new System.Drawing.Point(561, 250);
+            this.txtSalarioliquido.Name = "txtSalarioliquido";
+            this.txtSalarioliquido.Size = new System.Drawing.Size(139, 20);
+            this.txtSalarioliquido.TabIndex = 6;
             // 
             // label1
             // 
@@ -131,28 +139,81 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(35, 166);
+            this.label4.Location = new System.Drawing.Point(13, 209);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(102, 18);
             this.label4.TabIndex = 11;
             this.label4.Text = "Clube de lazer";
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.Location = new System.Drawing.Point(12, 64);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
+            this.dateTimePicker1.TabIndex = 12;
+            // 
+            // lblSalario
+            // 
+            this.lblSalario.AutoSize = true;
+            this.lblSalario.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSalario.Location = new System.Drawing.Point(13, 106);
+            this.lblSalario.Name = "lblSalario";
+            this.lblSalario.Size = new System.Drawing.Size(54, 18);
+            this.lblSalario.TabIndex = 13;
+            this.lblSalario.Text = "Salario";
+            // 
+            // lblDatadaFolha
+            // 
+            this.lblDatadaFolha.AutoSize = true;
+            this.lblDatadaFolha.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDatadaFolha.Location = new System.Drawing.Point(13, 41);
+            this.lblDatadaFolha.Name = "lblDatadaFolha";
+            this.lblDatadaFolha.Size = new System.Drawing.Size(100, 18);
+            this.lblDatadaFolha.TabIndex = 14;
+            this.lblDatadaFolha.Text = "Data da Folha";
+            // 
+            // btnLimpar
+            // 
+            this.btnLimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLimpar.Location = new System.Drawing.Point(503, 330);
+            this.btnLimpar.Name = "btnLimpar";
+            this.btnLimpar.Size = new System.Drawing.Size(160, 28);
+            this.btnLimpar.TabIndex = 15;
+            this.btnLimpar.Text = "Limpar";
+            this.btnLimpar.UseVisualStyleBackColor = true;
+            this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
+            // 
+            // btnSair
+            // 
+            this.btnSair.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSair.Location = new System.Drawing.Point(503, 364);
+            this.btnSair.Name = "btnSair";
+            this.btnSair.Size = new System.Drawing.Size(160, 32);
+            this.btnSair.TabIndex = 16;
+            this.btnSair.Text = "Sair";
+            this.btnSair.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnSair);
+            this.Controls.Add(this.btnLimpar);
+            this.Controls.Add(this.lblDatadaFolha);
+            this.Controls.Add(this.lblSalario);
+            this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.checkBox1);
+            this.Controls.Add(this.txtSalarioliquido);
+            this.Controls.Add(this.txtimpostoderenda);
+            this.Controls.Add(this.txtsalariodafolha);
+            this.Controls.Add(this.txtSalario);
+            this.Controls.Add(this.cbxclubedelazer);
+            this.Controls.Add(this.btncalcular);
+            this.Controls.Add(this.ckbclubedelazer);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -162,17 +223,22 @@
 
         #endregion
 
-        private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.CheckBox ckbclubedelazer;
+        private System.Windows.Forms.Button btncalcular;
+        private System.Windows.Forms.ComboBox cbxclubedelazer;
+        private System.Windows.Forms.TextBox txtSalario;
+        private System.Windows.Forms.TextBox txtsalariodafolha;
+        private System.Windows.Forms.TextBox txtimpostoderenda;
+        private System.Windows.Forms.TextBox txtSalarioliquido;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.Label lblSalario;
+        private System.Windows.Forms.Label lblDatadaFolha;
+        private System.Windows.Forms.Button btnLimpar;
+        private System.Windows.Forms.Button btnSair;
     }
 }
 
